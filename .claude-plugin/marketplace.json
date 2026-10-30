@@ -1,0 +1,29 @@
+{
+  "name": "medicai",
+  "owner": {
+    "name": "Medicai",
+    "url": "https://www.medicai.io"
+  },
+  "metadata": {
+    "description": "Official Medicai skills for AI coding assistants",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "medicai",
+      "source": "./",
+      "description": "Build on the Medicai cloud medical imaging and documents platform: embed the DICOM viewer, upload studies to the cloud PACS, manage cases, share with patients and doctors, react to webhooks.",
+      "version": "0.1.0",
+      "category": "healthcare",
+      "keywords": [
+        "medicai",
+        "dicom",
+        "pacs",
+        "medical-imaging",
+        "healthcare",
+        "viewer",
+        "radiology"
+      ]
+    }
+  ]
+}

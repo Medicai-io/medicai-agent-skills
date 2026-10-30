@@ -1,0 +1,21 @@
+{
+  "name": "medicai",
+  "version": "0.1.0",
+  "description": "Build on the Medicai cloud medical imaging and documents platform: embed the DICOM viewer, upload studies to the cloud PACS, manage cases, share with patients and doctors, react to webhooks.",
+  "author": {
+    "name": "Medicai",
+    "url": "https://www.medicai.io"
+  },
+  "homepage": "https://www.medicai.io/products/medicai-api",
+  "license": "MIT",
+  "keywords": [
+    "medicai",
+    "dicom",
+    "pacs",
+    "medical-imaging",
+    "healthcare",
+    "viewer",
+    "radiology"
+  ],
+  "skills": "./skills/"
+}
